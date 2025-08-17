@@ -7,25 +7,46 @@
 ## 🚀 Tech Stack
 
 <p align="left">
- <p align="left">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40" style="margin-right:10px;" />
-  
-  <!-- Backend & Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right:10px;" />
-  
-  <!-- Tools & Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.IO" width="40" height="40" style="margin-right:10px;" />
-  <span style="font-size:2rem; margin-right:10px;">🐻</span> <!-- Zustand -->
-  
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 
+  </a>
+
+  <a href="https://nextjs.org/docs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 
+  </a>
+
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 
+  </a>
+
+  <a href="https://tailwindcss.com/docs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 
+  </a>
+
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 
+  </a>
+
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 
+  </a>
+
+  <a href="https://socket.io/docs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 
+  </a>
+
+  <a href="https://www.linux.org/docs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" />  
+  </a>
+
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 
+  </a>
 </p>
+
+
+
+
 
 ## 📫 Connect with me
 <p align="left">
