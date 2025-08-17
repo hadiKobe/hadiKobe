@@ -7,6 +7,10 @@
 ## 🚀 Tech Stack
 
 <p align="left">
+ <a href="https://www.python.org/doc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 
+  </a>
+  
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> 
   </a>
